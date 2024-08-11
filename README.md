@@ -1,4 +1,4 @@
-# Neural Networks and Deep Learning
+# [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - **Neural networks** : A beautiful biologically-inspired programming paradigm which enables a computer to learn from observational data
 - **Deep learning** : A powerful set of techniques for learning in neural networks
 
